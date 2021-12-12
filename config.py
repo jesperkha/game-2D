@@ -1,14 +1,14 @@
 # GLOBAL CONSTANTS
 # ---------------------------------------------------------
 
-WINDOW_NAME  = "Santarun"
+WINDOW_NAME  = "My Game"
 ASPECT_RATIO = 16 / 9
 FULLSCREEN   = False
 WINDOW_SCALE = 4
 FPS          = 60
 
 TILESIZE = 16
-HEIGHT   = 9 * TILESIZE
+HEIGHT   = 9  * TILESIZE
 WIDTH    = 16 * TILESIZE
 
 # FLOW CONTROL
